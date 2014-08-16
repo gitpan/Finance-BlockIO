@@ -32,10 +32,11 @@
       },
       "runtime" : {
          "requires" : {
+            "WWW::Curl::Simple" : "0",
             "perl" : "5.006"
          }
       }
    },
    "release_status" : "stable",
-   "version" : "0.01"
+   "version" : "0.02"
 }
